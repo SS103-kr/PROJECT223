@@ -1,0 +1,11 @@
+PyQt6==6.7.1
+PyQt6-Qt6==6.7.3
+PyQt6-sip==13.11.1
+mss==10.1.0
+opencv-python==4.13.0.92
+Pillow==12.2.0
+sounddevice==0.5.1
+comtypes==1.4.8
+keyboard==0.13.5
+numpy==2.4.4
+pywin32==311

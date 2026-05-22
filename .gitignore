@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller (Executable builds - no need to upload binaries)
+build/
+dist/
+
+# Local configuration (Contains local absolute paths and user PC username)
+config.json
+
+# Claude local settings
+.claude/
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# IDE settings
+.vscode/
+.idea/

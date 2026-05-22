@@ -1,0 +1,14 @@
+## ffmpeg.exe 설치 방법
+
+오디오+영상 합성을 위해 ffmpeg.exe가 필요합니다.
+
+1. 아래 사이트에서 다운로드:
+   https://www.gyan.dev/ffmpeg/builds/
+   → "ffmpeg-release-essentials.zip" 클릭
+
+2. 압축 해제 후 bin\ffmpeg.exe 파일을
+   이 폴더(tools\)에 복사해 주세요:
+   project223\tools\ffmpeg.exe
+
+ffmpeg 없이도 영상 녹화는 가능하지만
+오디오가 포함되지 않습니다.
